@@ -1,0 +1,6 @@
+@ServerSideStudentApiUsingDataBase_HostAddress = http://localhost:5226
+
+GET {{ServerSideStudentApiUsingDataBase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
